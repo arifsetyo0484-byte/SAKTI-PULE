@@ -1,0 +1,6 @@
+{
+  "appId": "id.puledagel.sakti",
+  "appName": "SAKTI",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
